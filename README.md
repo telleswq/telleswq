@@ -50,7 +50,7 @@ Se você quiser se conectar, colaborar ou tiver alguma dúvida, sinta-se à vont
 ![SQLite](https://img.shields.io/badge/-sqlite-333333?style=flat&logo=sqlite&logoColor=6CBCE9)
 ![Azure](https://img.shields.io/badge/-Azure%20-333333?style=flat&logo=azure)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=Color=0B0153)
+![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
 ![StreamLlit](https://img.shields.io/badge/-Streamlit-333333?style=flat&logo=streamlit&logoColor=FF5050)
 
 <h2>🚀 &nbsp;Estatísticas do GitHub</h2>
