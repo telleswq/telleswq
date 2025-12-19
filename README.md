@@ -1,50 +1,59 @@
-# 💻 Gabriel Telles
+<h1>👋 &nbsp;Olá, eu sou Gabriel Telles, Engenheiro Full Stack apaixonado por código e dados!</h1>
+<p align="center">
+<a href="https://www.linkedin.com/in/gdtelles"><img src="https://img.shields.io/badge/-Meu%20LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="https://instagram.com/tellesdev"><img src="https://img.shields.io/badge/-Meu%20Instagram%20Profissional_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.youtube.com/@tellesdev"><img src="https://img.shields.io/badge/-Meu%20YT%20Canal-D62422?style=flatsquare&labelColor=D62422&logo=youtube&logoColor=white"/></a>
+<a href="mailto:telleswq@gmail.com"><img src="https://img.shields.io/badge/-Envie%20me%20uma%20mensagem-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
-**Desenvolvedor FullStack**
+</p>
 
-Me chamo **Gabriel Telles**, tenho 20 anos e moro em Criciúma SC.  
-Atualmente curso **Análise e Desenvolvimento de Sistemas** na UniBF (início em Fev/2025) e estudo programação por conta própria desde **setembro de 2024**.  
-Sou apaixonado por tecnologia e já desenvolvi diversos projetos práticos.  
-Busco sempre evoluir minhas habilidades e criar soluções eficientes, com boa experiência de uso.
+<h2> 👨🏻‍💻 &nbsp;Sobre mim </h2>
 
----
+Sou um engenheiro de software com foco em desenvolvimento Full Stack e Engenharia de Dados, apaixonado por construir soluções escaláveis, modernas e bem arquitetadas. Trabalhei em projetos de alto nível, utilizando tecnologias como TypeScript, React, Next.js, Node.js, Python, Docker, Azure, PostgreSQL, SQLite, Pandas e Streamlit para análise e visualização, além de Machine Learning com Scikit-learn.
 
-📫 **Conecte-se comigo:**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gdtelles)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:telleswq@gmail.com)
+Escrevi minhas primeiras linhas de código aos 9 anos, quando tentei criar um servidor para um jogo que eu adorava na época. Após muita pesquisa e tentativas, consegui colocá-lo online e aquela sensação foi mágica. Percebi que podia criar, personalizar e transformar qualquer coisa apenas escrevendo código. Naquele momento, entendi que queria seguir carreira como desenvolvedor.
 
----
+Desde então, mantenho uma paixão genuína por programação e tecnologia, buscando constantemente evoluir como profissional, aprender novas ferramentas e entregar soluções cada vez mais eficientes e bem construídas.
 
-## 🚀 Linguagens e Tecnologias
+<h2> 📚 &nbsp;O que você encontrará aqui?</h2>
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-5469d4?style=for-the-badge&logo=stripe&logoColor=ffffff)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+Este GitHub é mais do que apenas um repositório de código — é um reflexo da minha jornada, experiências e do meu compromisso com o desenvolvimento de software limpo, escalável e com propósito. Seja você um recrutador, desenvolvedor ou alguém que está aprendendo a programar, aqui você encontrará:
 
----
+- Projetos reais, aplicando conceitos do dia a dia profissional
+- Arquitetura Limpa e princípios SOLID na prática
+- Alta cobertura de testes, com foco em testes automatizados
+- Experimentos, estudos técnicos e boas práticas do mundo real
+  
+Se você quiser se conectar, colaborar ou tiver alguma dúvida, sinta-se à vontade para <a href="mailto:telleswq@gmail.com">clicar aqui e me enviar um e-mail</a> — ou entrar em contato pelo <a href="https://www.linkedin.com/in/gdtelles/">LinkedIn</a>. Estou sempre aberto a boas conversas e oportunidades interessantes.
 
-## 📊 Estatísticas do GitHub
+<h2> 🛠 &nbsp;Tech Stack</h2>
+<h3>💻 &nbsp;Front-end:</h3>
+
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![React](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
+![Tailwind](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=tailwind-css)
+![React Testing Library](https://img.shields.io/badge/-RTL-333333?style=flat&logo=testing-library)
+
+
+<h3>⚙️ &nbsp;Back-end & databases:</h3>
+
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs&logoColor=E535AB)
+![Python](https://img.shields.io/badge/-python-333333?style=flat&logo=python&logoColor)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+![SQLite](https://img.shields.io/badge/-sqlite-333333?style=flat&logo=sqlite&logoColor=6CBCE9)
+![Azure](https://img.shields.io/badge/-Azure%20-333333?style=flat&logo=azure)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
+![Kafka](https://img.shields.io/badge/-Kafka-333333?style=flat&logo=apache-kafka)
+
+<h2>🚀 &nbsp;Estatísticas do GitHub</h2>
 
 ![Estatísticas do GitHub de Gabriel](https://github-readme-stats.vercel.app/api?username=telleswq&show_icons=true&theme=tokyonight&hide_title=true&count_private=true)
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=telleswq&layout=compact&theme=tokyonight)
-
----
-
-## 📌 Projetos em Destaque
-
-- [**Sizzurp**](https://github.com/telleswq/sizzurp) — E-commerce de roupas. (Ainda em desenvolvimento.)
