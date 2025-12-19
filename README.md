@@ -47,6 +47,7 @@ Se você quiser se conectar, colaborar ou tiver alguma dúvida, sinta-se à vont
 ![Python](https://img.shields.io/badge/-python-333333?style=flat&logo=python&logoColor)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql&logoColor=E535AB)
 ![SQLite](https://img.shields.io/badge/-sqlite-333333?style=flat&logo=sqlite&logoColor=6CBCE9)
 ![Azure](https://img.shields.io/badge/-Azure%20-333333?style=flat&logo=azure)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
