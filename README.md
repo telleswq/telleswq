@@ -55,5 +55,5 @@ Se você quiser se conectar, colaborar ou tiver alguma dúvida, sinta-se à vont
 
 <h2>🚀 &nbsp;Estatísticas do GitHub</h2>
 
-![Estatísticas do GitHub de Gabriel](https://github-readme-stats.vercel.app/api?username=telleswq&show_icons=true&theme=tokyonight&hide_title=true&count_private=true)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=telleswq&layout=compact&theme=tokyonight)
+![Estatísticas do GitHub de Gabriel](https://github-readme-stats.vercel.app/api?username=telleswq&show_icons=true&theme=dracula)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=telleswq&layout=compact&theme=dracula)
